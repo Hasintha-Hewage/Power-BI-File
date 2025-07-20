@@ -7,9 +7,9 @@ Here's a complete and polished `README.md` file content for your Power BI projec
 Welcome to my Power BI dashboard showcase! This repository contains two end-to-end interactive dashboards built to analyze historical space missions and the current global AI job market. These dashboards were created as part of my data visualization learning journey.
 
 📁 **Download PBIX files** and explore the live demo video:
-👉 [View video preview](#)
+
 👉 [Download AI_Data.pbix files](AI_Data_Jobs.pbix)
-👉 [Download Space Missions.pbix files](AI_Data_Jobs.pbix)
+👉 [Download Space Missions.pbix files](Space Mission.pbix)
 
 ---
 
