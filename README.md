@@ -8,7 +8,8 @@ Welcome to my Power BI dashboard showcase! This repository contains two end-to-e
 
 📁 **Download PBIX files** and explore the live demo video:
 👉 [View video preview](#)
-👉 [Download .pbix files](./path-to-files)
+👉 [Download AI_Data.pbix files](AI_Data_Jobs.pbix)
+👉 [Download Space Missions.pbix files](AI_Data_Jobs.pbix)
 
 ---
 
